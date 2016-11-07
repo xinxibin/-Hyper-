@@ -15,7 +15,6 @@ class ImageBrowserImageView: UIImageView {
     
     var imgArr:[UIImage] = []
     var index = 0
-    var isFirst = true
     var dpLink:CADisplayLink?
     var transition:CATransition?
     

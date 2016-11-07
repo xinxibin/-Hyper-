@@ -50,7 +50,7 @@
             <connections>
                 <outlet property="imageView" destination="fD4-1s-vPw" id="IJm-In-VfS"/>
             </connections>
-            <point key="canvasLocation" x="95.5" y="10.5"/>
+            <point key="canvasLocation" x="-86" y="-96"/>
         </collectionViewCell>
     </objects>
 </document>
